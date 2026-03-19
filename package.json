@@ -1,0 +1,21 @@
+{
+  "name": "stripe-checkout-demo",
+  "version": "1.0.0",
+  "description": "University assignment: $1 Stripe Checkout demo using Node.js + Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "stripe": "^14.25.0"
+  },
+  "keywords": ["stripe", "checkout", "nodejs", "express"],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,3 @@
+# Never commit secrets or dependencies to GitHub
+.env
+node_modules/
